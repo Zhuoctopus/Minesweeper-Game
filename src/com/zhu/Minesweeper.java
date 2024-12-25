@@ -1,16 +1,9 @@
-package com.zetcode;
+package com.zhu;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-
-/**
- * Java Minesweeper Game
- *
- * Author: Jan Bodnar
- * Website: http://zetcode.com
- */
 
 public class Minesweeper extends JFrame {
 

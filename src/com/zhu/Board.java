@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.zhu;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
